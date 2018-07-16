@@ -1,0 +1,14 @@
+platform:ios,'10.0'
+
+target ‘FItemsBase’ do
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'YYCache', '~> 1.0.4'
+pod 'Masonry'
+pod 'MBProgressHUD'
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'IQKeyboardManager'
+pod 'MJExtension'
+Pod 'FMDB'
+end
